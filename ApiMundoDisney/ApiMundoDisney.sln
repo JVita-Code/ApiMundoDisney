@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMundoDisney", "ApiMundoD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMundoDisney.Models", "ApiMundoDisney.Models\ApiMundoDisney.Models.csproj", "{D78F70AD-27AA-4FF4-A470-CB1CCAB31306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMundoDisney.Data", "ApiMundoDisney.Data\ApiMundoDisney.Data.csproj", "{D6A3593C-B92F-4426-A9A3-CA99B1B81FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMundoDisney.Repositories", "ApiMundoDisney.Repositories\ApiMundoDisney.Repositories.csproj", "{30718050-226D-45AE-ABD0-B03276EB3B31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D78F70AD-27AA-4FF4-A470-CB1CCAB31306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78F70AD-27AA-4FF4-A470-CB1CCAB31306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78F70AD-27AA-4FF4-A470-CB1CCAB31306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A3593C-B92F-4426-A9A3-CA99B1B81FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A3593C-B92F-4426-A9A3-CA99B1B81FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A3593C-B92F-4426-A9A3-CA99B1B81FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A3593C-B92F-4426-A9A3-CA99B1B81FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30718050-226D-45AE-ABD0-B03276EB3B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30718050-226D-45AE-ABD0-B03276EB3B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30718050-226D-45AE-ABD0-B03276EB3B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30718050-226D-45AE-ABD0-B03276EB3B31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

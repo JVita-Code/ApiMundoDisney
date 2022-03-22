@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApiMundoDisney.Data\ApiMundoDisney.Data.csproj" />
+  </ItemGroup>
+
 </Project>

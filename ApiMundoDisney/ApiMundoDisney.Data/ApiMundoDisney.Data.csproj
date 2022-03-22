@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApiMundoDisney.Models\ApiMundoDisney.Models.csproj" />
+  </ItemGroup>
+
 </Project>
